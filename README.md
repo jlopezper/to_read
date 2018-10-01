@@ -27,3 +27,5 @@ Big Data Analytics with R: Leverage R Programming to uncover hidden patterns in 
 Feature Engineering for Machine Learning: https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241/
 
 Applied Survey Sampling: https://www.amazon.com/Applied-Survey-Sampling-Edward-Blair/dp/1483334333
+
+Data Wrangling with R: https://www.amazon.com/Data-Wrangling-R-Use/dp/3319455982
